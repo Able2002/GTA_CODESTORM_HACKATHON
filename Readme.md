@@ -1,6 +1,6 @@
 # Employee Management System with CRUD
 
-![Project Logo](link-to-your-logo-image)
+![Project Logo](https://github.com/Able2002/GTA_CODESTORM_HACKATHON)
 
 ## Description
 
